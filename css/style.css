@@ -1,8 +1,7 @@
 *{
     margin: 0;
     padding: 0;
-    font-family: 'Times New Roman', Times, serif;  
-    background-color: rgba(173, 216, 230, 0.564);  
+    font-family: 'Times New Roman', Times, serif;    
 
 }
 
@@ -177,6 +176,51 @@ h1 /*titulo carrusel*/{
     margin-left: 5%;
     margin-top: 0%;
     margin-right: 5%;
-    margin-bottom: 0%;
+    margin-bottom: 6%;
     color:white;
 }
+.quienes h1{
+    font-size: 50px;
+    text-align: center; 
+    margin-top: 5%;  
+    color:rgb(0, 0, 0);
+}
+
+.quienes p{ font-size: 20px;
+    text-align:left;
+    margin-left: 5%;
+    margin-top: 5%;
+    margin-right: 5%;
+    margin-bottom: 5%;
+    color : black;
+}
+
+ .circulo{
+ background-color: blue;
+ width: 100px;
+ height: 100px;
+ border-radius: 50%;
+ display: flex;
+ align-items: center;
+ }
+ .circulo2{
+    background-color: blue;
+    width: 100px;
+    height: 100px;
+    border-radius: 50%;
+    display:inline-flex
+    }
+    .circulo3{
+        background-color: blue;
+        width: 100px;
+        height: 100px;
+        border-radius: 50%;
+        display:inline-flex;
+        }
+        .circulo4{
+            background-color: blue;
+            width: 100px;
+            height: 100px;
+            border-radius: 50%;
+            display:inline-flex;
+            }
