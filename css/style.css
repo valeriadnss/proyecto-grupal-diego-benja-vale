@@ -6,6 +6,7 @@
 .hero{
     width: 80%;
     margin: auto;
+    background-image: url(img/backgroundsea.png);
 }
 .navbar{
     margin: 30px auto;
